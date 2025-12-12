@@ -1,0 +1,5 @@
+{
+  "name": "PixelChat Scrollytelling",
+  "description": "A retro pixel-art scrollytelling experience showcasing MBTI chat features using GSAP and ScrollTrigger.",
+  "requestFramePermissions": []
+}
